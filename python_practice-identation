@@ -1,1 +1,28 @@
+# Python refers to the space at beginning of the code.
+ 
+if 5 > 8:
+        print("Five is not greater then eight.")
 
+# Upper code having perfect idendation.
+
+if 5 > 8:
+print("Five is not greater then eight.")
+
+# Upper code having wrong idendation it gives an error.
+
+Note:- most common identation is 4 in programming and have atleast one identation. 
+.................................................................................................................................................................................
+
+# if you have same block of code than it have same number of spaces or less to previous one otherwise is gives an error.
+
+if 5 > 8:
+ print("Five is not greater then eight.")
+ print("Five is not greater then eight.")
+
+#Above code run perfectly.
+
+if 5 > 8:
+ print("Five is not greater then eight.")
+  print("Five is not greater then eight.")
+
+# This code gives an error.
