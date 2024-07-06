@@ -1,0 +1,5 @@
+#quotes inside quotes.
+
+print("I am shanky kumar prajapati from 'indirapuram'"
+
+      print('I am shanky kumar prajapati from "indirapuram"'
