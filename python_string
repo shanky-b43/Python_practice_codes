@@ -1,0 +1,4 @@
+#string can be surrounded either single quotes or double quates
+
+print("Hello World!")
+print('Hello World!')
