@@ -1,0 +1,9 @@
+#Strings are arrays.
+
+a = "Hello World!"
+ print(a[3])
+
+#Looping through array.
+
+for x in "banana":
+ print(x)
