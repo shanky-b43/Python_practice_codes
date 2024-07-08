@@ -1,0 +1,7 @@
+#format is used to add alphanumerical words
+
+age = 35
+txt = f"my age is {age}."
+print(txt)
+
+#o/p:- my age is 35.
