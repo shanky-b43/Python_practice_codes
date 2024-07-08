@@ -1,0 +1,33 @@
+# Upper case
+
+txt = ("shanky kumar prajapati")
+print(a.upper())
+
+#o/p:- SHANKY KUMAR PRAJAPATI
+
+#lower case
+a = ("SHANKY KUMAR PRAJAPATI")
+print(a.lower())
+
+#o/p:- shanky kumar prajapati
+
+#remove whitespace
+
+a = (" SHANKY KUMAR PRAJAPATI ")
+print(a.Strip())
+
+#o/p:- "SHANKY KUMAR PRAJAPATI", remove spaces.
+
+#string replacement
+
+a = (" SHANKY KUMAR PRAJAPATI ")
+print(a.replace("KUMAR", "kr."))
+
+#o/p:- SHANKY kr. PRAJAPATI
+
+#string split
+
+a = (" SHANKY KUMAR PRAJAPATI, here i am ")
+print(a.split(","))
+
+#o/p:- ['SHANKY KUMAR PRAJAPATI', 'here i am']
