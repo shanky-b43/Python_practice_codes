@@ -1,0 +1,13 @@
+#string_concatenation
+
+a="hello"
+b="world!"
+print(a+b)
+
+#o/p:- helloworld!
+
+#for space
+
+a="hello"
+b="world!"
+print(a+ " " +b)
