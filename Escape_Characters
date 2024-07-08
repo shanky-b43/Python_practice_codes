@@ -1,0 +1,11 @@
+#There are several excape characters present in python.
+
+#double quotes
+
+txt = "Here is \"Shanky\"
+print(txt)
+
+#single quotes
+
+txt = 'Here is 'shanky\'s bike.'
+print(txt)
