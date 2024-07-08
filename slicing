@@ -1,0 +1,16 @@
+#slicing
+#Note:- spaces are included in string,.
+
+txt = ("hey! i am shanky")
+print(txt[2:8])
+
+#Note :- o/p is y! i a
+# last slicing no is not include.
+
+# Negative Indexing
+#Note:- -8 indicates m from last
+
+txt = ("hey! i am shanky")
+print(txt[-8:-1])
+
+# O/P :- m shank
