@@ -1,7 +1,17 @@
-#format is used to add alphanumerical words
+#using placeholder
 
 age = 35
 txt = f"my age is {age}."
 print(txt)
 
 #o/p:- my age is 35.
+
+#Modifiers
+
+price = 73
+txt = f"The price of dollar in INR is {price:.2f}"
+print(txt)
+
+#o/p:- The price of dollar in INR is 75.00
+
+#In modifier we can use math operators 
