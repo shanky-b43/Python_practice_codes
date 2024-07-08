@@ -1,0 +1,16 @@
+#Check String
+
+txt = "Hey are you free right now."
+print("free" in txt)
+
+#Check string using if
+
+txt = "Hey are you free right now."
+if "free" in txt:
+ print("Yes 'free' is present in txt.")
+
+#check string using if not.
+
+txt = "Hey are you free right now."
+if 'we' not present in txt:
+ print("no 'free is not is present in txt."
