@@ -1,0 +1,23 @@
+#boolean return true or false in the response
+
+print(5 >= 1) #o/p:- true
+print(5 == 6) #o/p:- false
+print(10 > 2) #o/p:- true
+
+#boolean in if else statement
+
+a = 5
+b = 8
+if a >= b:
+  print("a is greater than b")
+else:
+  print("b is greater than a")
+
+#boolean in functions
+
+def myclass():
+  return True
+if myclass():
+ print("YES")
+else:
+ print("NO") #o/p:- YES
