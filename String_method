@@ -1,0 +1,18 @@
+#There is a set of bulit-in method we can use for strings
+
+          #capitalize() method, use to capital the first character of the sentence
+
+txt = "hey, i am shanky kumar prajapati"
+print(txt.capitalize()) 
+
+#o/p:- Hey, i am shanky kumar prajapati
+
+          #casefold() method, use to lower the first character in lower case. It is most strong, aggresive and can convert much strings into lowercase.
+
+txt = "Hey, I Am Shanky Kumar Prajapati"
+print(txt.casefold())
+
+#o/p:- hey, i am shanky kumar prajapati
+
+#Note:- Perform 3x practice on string
+
