@@ -1,0 +1,4 @@
+# List are ordered, changeable & allow duplicate values in list.
+
+thislist = ["hello", 25, "hello"]
+print(thislist)
