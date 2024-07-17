@@ -1,0 +1,4 @@
+#list is used to store multiple line in a single variable. List items are changeable, duplicate and ordered. List are created using square brackes []
+
+a = ["apple", "banana","apple", 92]
+print(a)
